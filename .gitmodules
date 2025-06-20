@@ -1,0 +1,8 @@
+[submodule ".env"]
+	path = .env
+	url = https://github.com/sgra64/se1-gitmodules.git
+	branch = env-mvn
+[submodule ".vscode"]
+	path = .vscode
+	url = https://github.com/sgra64/se1-gitmodules.git
+	branch = vscode-mvn
